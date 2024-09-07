@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm an Asian Catholic Man Studying Artificial Intelligence as a undergraduate major.
+
+
+My interest is focused on NLP/Education.
+
+
+Hope to walk with you.
 <!--
 **aragaki-jiyu/aragaki-jiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
